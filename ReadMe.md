@@ -1,5 +1,12 @@
 # Tweet Generator: Data Structures & Probability with Python
 
+## Course Schedule
+
+**Course Dates:** Monday, January 23 – Friday, March 3, 2017 (6 weeks)
+
+**Class Times:** Tuesday & Thursday 1–3pm (12 class sessions)
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Tweet-Generator`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
