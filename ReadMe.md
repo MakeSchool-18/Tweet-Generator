@@ -7,6 +7,23 @@
 **Class Times:** Tuesday & Thursday 1–3pm (12 class sessions)
 
 
+### Class 1: Tuesday, January 24
+
+**Activity:**
+- Discuss course goals and project focus
+- Compare Python to other programming languages
+
+**Tutorial:**
+- Page 1: Let’s Get Started
+- Page 2: Random Dictionary Words
+
+**Objectives:**
+- Create Python scripts and modules
+- Access command-line arguments
+- Read files and extract lines of text
+- Strip whitespace from strings
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Tweet-Generator`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
