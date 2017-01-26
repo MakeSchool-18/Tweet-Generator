@@ -24,6 +24,20 @@
 - Strip whitespace from strings
 
 
+### Class 2: Thursday, January 26
+
+**Activity:**
+- Compare code quality for list shuffling function
+- Interactive code quiz on Python scripts and modules
+
+**Tutorial:**
+- Page 3: Analyze Word Frequency in Text
+
+**Objectives:**
+- Split strings into components to find words
+- Build a histogram to count word occurrences
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Tweet-Generator`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
