@@ -38,6 +38,19 @@
 - Build a histogram to count word occurrences
 
 
+### Class 3: Tuesday, January 31
+
+**Activity:**
+- Compare code quality for getting random dictionary words
+
+**Tutorial:**
+- Page 4: Stochastic Sampling
+
+**Objectives:**
+- Sample words according to their observed frequencies
+- Compare tradeoffs with different sampling techniques
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Tweet-Generator`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
