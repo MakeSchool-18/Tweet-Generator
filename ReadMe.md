@@ -51,6 +51,20 @@
 - Compare tradeoffs with different sampling techniques
 
 
+### Class 4: Thursday, February 2
+
+**Activity:**
+- Compare tradeoffs of different histogram implementations
+- Probability lecture and discussion
+
+**Tutorial:**
+- Page 5: Flask Web App
+
+**Objectives:**
+- Build Flask web app on your computer
+- Deploy Flask app to Heroku server
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Tweet-Generator`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
