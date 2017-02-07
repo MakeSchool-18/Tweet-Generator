@@ -65,6 +65,19 @@
 - Deploy Flask app to Heroku server
 
 
+### Class 5: Tuesday, February 7
+
+**Activity:**
+- Compare implementations for sampling words based on observed frequency
+
+**Tutorial:**
+- Page 6: Application Architecture
+
+**Objectives:**
+- Plan application architecture to prepare for future expansion
+- Refactor histogram functions as class instance methods
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Tweet-Generator`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
