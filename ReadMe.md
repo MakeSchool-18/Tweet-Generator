@@ -71,10 +71,22 @@
 - Compare implementations for sampling words based on observed frequency
 
 **Tutorial:**
-- Page 6: Application Architecture
+- Page 6: Application Architecture (part 1)
 
 **Objectives:**
 - Plan application architecture to prepare for future expansion
+
+
+### Class 6: Thursday, February 9
+
+**Activity:**
+- Compare code quality of functions based on length and responsibility
+- Unpack list comprehensions into equivalent code and compare trade offs
+
+**Tutorial:**
+- Page 6: Application Architecture (part 2)
+
+**Objectives:**
 - Refactor histogram functions as class instance methods
 
 
