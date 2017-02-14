@@ -90,6 +90,19 @@
 - Refactor histogram functions as class instance methods
 
 
+### Class 7: Tuesday, February 14
+
+**Activity:**
+- Markov chains and random walks lecture and discussion
+
+**Tutorial:**
+- Page 7: Generating Sentences
+
+**Objectives:**
+- Build Markov chain based on observed frequency of adjacent words
+- Generate sentence by sampling words using random walk through Markov chain
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Tweet-Generator`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
