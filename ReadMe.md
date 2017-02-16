@@ -113,7 +113,7 @@
 - Page 8: Linked List
 
 **Objectives:**
-- Build linked list class to store sequence of items
+- Implement LinkedList class using [starter code](templates/linkedlist.py) and [unit tests](templates/test_linkedlist.py)
 
 
 ## Working with this GitHub repository
