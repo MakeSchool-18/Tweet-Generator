@@ -103,6 +103,18 @@
 - Generate sentence by sampling words using random walk through Markov chain
 
 
+### Class 8: Thursday, February 16
+
+**Activity:**
+- Act out how dynamic arrays and linked lists work
+
+**Tutorial:**
+- Page 8: Linked List
+
+**Objectives:**
+- Build linked list class to store sequence of items
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Tweet-Generator`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
