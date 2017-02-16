@@ -107,6 +107,7 @@
 
 **Activity:**
 - Act out how dynamic arrays and linked lists work
+- Review slides on [arrays and linked lists](ArraysLinkedLists.pdf)
 
 **Tutorial:**
 - Page 8: Linked List
