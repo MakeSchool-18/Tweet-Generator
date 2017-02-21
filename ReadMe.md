@@ -93,6 +93,7 @@
 ### Class 7: Tuesday, February 14
 
 **Activity:**
+- Compare histogram functions and class instance methods
 - Markov chains and random walks lecture and discussion
 
 **Tutorial:**
@@ -106,6 +107,7 @@
 ### Class 8: Thursday, February 16
 
 **Activity:**
+- Review Markov chains, how to generate one and sample sentences from it
 - Act out how dynamic arrays and linked lists work
 - Review slides on [arrays and linked lists](ArraysLinkedLists.pdf)
 
@@ -114,6 +116,21 @@
 
 **Objectives:**
 - Implement LinkedList class using [starter code](templates/linkedlist.py) and [unit tests](templates/test_linkedlist.py)
+
+
+### Class 9: Tuesday, February 21
+
+**Activity:**
+- Draw diagram of how linked list data structure is stored in memory
+- Compare similarities and differences in diagram representations
+- Act out how hash functions and hash tables work
+- Review slides on [hash tables](HashTables.pdf)
+
+**Tutorial:**
+- Page 9: Hash Table
+
+**Objectives:**
+- Implement HashTable class using [starter code](templates/hashtable.py) and [unit tests](templates/test_hashtable.py)
 
 
 ## Working with this GitHub repository
