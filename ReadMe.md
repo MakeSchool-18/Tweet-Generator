@@ -115,7 +115,7 @@
 - Page 8: Linked List
 
 **Objectives:**
-- Implement LinkedList class using [starter code](templates/linkedlist.py) and [unit tests](templates/test_linkedlist.py)
+- Implement `LinkedList` class using [starter code](templates/linkedlist.py) and [unit tests](templates/test_linkedlist.py)
 
 
 ### Class 9: Tuesday, February 21
@@ -130,7 +130,7 @@
 - Page 9: Hash Table
 
 **Objectives:**
-- Implement HashTable class using [starter code](templates/hashtable.py) and [unit tests](templates/test_hashtable.py)
+- Implement `HashTable` class using [starter code](templates/hashtable.py) and [unit tests](templates/test_hashtable.py)
 
 
 ## Working with this GitHub repository

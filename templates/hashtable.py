@@ -9,9 +9,14 @@ class HashTable(object):
         """Initialize this hash table with the given initial size"""
         self.buckets = [LinkedList() for i in range(init_size)]
 
+    def __str__(self):
+        """Return a formatted string representation of this hash table"""
+        items = ['{}: {}'.format(repr(k), repr(v)) for k, v in self.items()]
+        return '{' + ', '.join(items) + '}'
+
     def __repr__(self):
         """Return a string representation of this hash table"""
-        return 'HashTable({})'.format(self.items())
+        return 'HashTable({})'.format(repr(self.items()))
 
     def _bucket_index(self, key):
         """Return the bucket index where the given key would be stored"""
@@ -68,21 +73,29 @@ class HashTable(object):
 def test_hash_table():
     ht = HashTable()
     print(ht)
+
+    print('Setting entries:')
     ht.set('I', 1)
-    print('get(I): ' + str(ht.get('I')))
+    print(ht)
     ht.set('V', 5)
-    print('get(V): ' + str(ht.get('V')))
+    print(ht)
     ht.set('X', 10)
+    print(ht)
+    print('contains(X): ' + str(ht.contains('X')))
+    print('get(I): ' + str(ht.get('I')))
+    print('get(V): ' + str(ht.get('V')))
     print('get(X): ' + str(ht.get('X')))
     print('length: ' + str(ht.length()))
-    print(ht)
+
     # Enable this after implementing delete:
-    # ht.delete('X')
+    # print('Deleting entries:')
+    # ht.delete('I')
     # print(ht)
     # ht.delete('V')
     # print(ht)
-    # ht.delete('I')
+    # ht.delete('X')
     # print(ht)
+    # print('contains(X): ' + str(ht.contains('X')))
     # print('length: ' + str(ht.length()))
 
 

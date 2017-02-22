@@ -25,6 +25,11 @@ class LinkedList(object):
             for item in iterable:
                 self.append(item)
 
+    def __str__(self):
+        """Return a formatted string representation of this linked list"""
+        items = ['({})'.format(repr(item)) for item in self.items()]
+        return '[{}]'.format(' -> '.join(items))
+
     def __repr__(self):
         """Return a string representation of this linked list"""
         return 'LinkedList({})'.format(repr(self.items()))
@@ -35,7 +40,6 @@ class LinkedList(object):
         current = self.head
         while current is not None:
             result.append(current.data)
-            # result.append(current)
             current = current.next
         return result
 
@@ -72,6 +76,8 @@ class LinkedList(object):
 def test_linked_list():
     ll = LinkedList()
     print(ll)
+
+    print('Appending items:')
     ll.append('A')
     print(ll)
     ll.append('B')
@@ -80,17 +86,19 @@ def test_linked_list():
     print(ll)
     print('head: ' + str(ll.head))
     print('tail: ' + str(ll.tail))
-    print(ll.length())
+    print('length: ' + str(ll.length()))
 
-    ll.delete('A')
-    print(ll)
-    ll.delete('C')
-    print(ll)
-    ll.delete('B')
-    print(ll)
-    print('head: ' + str(ll.head))
-    print('tail: ' + str(ll.tail))
-    print(ll.length())
+    # Enable this after implementing delete:
+    # print('Deleting items:')
+    # ll.delete('B')
+    # print(ll)
+    # ll.delete('C')
+    # print(ll)
+    # ll.delete('A')
+    # print(ll)
+    # print('head: ' + str(ll.head))
+    # print('tail: ' + str(ll.tail))
+    # print('length: ' + str(ll.length()))
 
 
 if __name__ == '__main__':
