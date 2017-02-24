@@ -161,8 +161,23 @@
 - Algorithm analysis lecture and discussion
 
 **Tutorial:**
-- Page 10: Performance Analysis
-- Page 12: Creating a Corpus
+- Page 10: Performance Analysis (stretch challenge)
+- Page 12: Creating a Corpus (important to complete)
+
+**Objectives:**
+- Analyze your algorithms for best case and worst case time complexity
+- Annotate `LinkedList` and `HashTable` methods with time complexity
+- Benchmark the actual performance of your `LinkedList` and `HashTable` data structures and the built-in `list` and `dict` types (optional stretch challenge)
+- Collect a corpus of text from which to learn a Markov chain grammar model
+
+**Resources:**
+- Review Make School's [algorithm analysis slides]
+- Read InterviewCake's [article on the idea behind big O notation][IC big O]
+- Read StackOverflow's [plain English explanations of big O notation][SO big O]
+
+[algorithm analysis slides]: AlgorithmAnalysis.pdf
+[IC big O]: https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity
+[SO big O]: http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation
 
 
 ## Working with this GitHub repository
