@@ -119,7 +119,7 @@
 
 **Resources:**
 - Watch Make School's [linked list lecture]
-- Review Make School's [linked list slides]
+- Review Make School's [linked list slides]
 - Play with Visualgo's [interactive animations of linked lists][visualgo list]
 - Read Wikipedia's [dynamic array article] and [linked list article]
 
@@ -145,7 +145,7 @@
 
 **Resources:**
 - Watch Make School's [hash table lecture]
-- Review Make School's [hash table slides]
+- Review Make School's [hash table slides]
 - Read Wikipedia's [hash table article]
 
 [hash table article]: https://en.wikipedia.org/wiki/Hash_table
@@ -171,7 +171,7 @@
 - Collect a corpus of text from which to learn a Markov chain grammar model
 
 **Resources:**
-- Review Make School's [algorithm analysis slides]
+- Review Make School's [algorithm analysis slides]
 - Read InterviewCake's [article on the idea behind big O notation][IC big O]
 - Read StackOverflow's [plain English explanations of big O notation][SO big O]
 
