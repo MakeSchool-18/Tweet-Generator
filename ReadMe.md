@@ -108,6 +108,7 @@
 
 **Activity:**
 - Review Markov chains, how to generate one and sample sentences from it
+- Arrays and linked lists lecture and discussion
 - Act out how dynamic arrays and linked lists work
 
 **Tutorial:**
@@ -134,6 +135,7 @@
 **Activity:**
 - Draw diagram of how linked list data structure is stored in memory
 - Compare similarities and differences in diagram representations
+- Hash tables lecture and discussion
 
 **Tutorial:**
 - Page 9: Hash Table
@@ -149,6 +151,18 @@
 [hash table article]: https://en.wikipedia.org/wiki/Hash_table
 [hash table lecture]: https://www.youtube.com/watch?v=nLWXJ6IDKmQ
 [hash table slides]: HashTables.pdf
+
+
+### Class 10: Thursday, February 23
+
+**Activity:**
+- Draw diagram of how hash table data structure is stored in memory
+- Compare similarities and differences in diagram representations
+- Algorithm analysis lecture and discussion
+
+**Tutorial:**
+- Page 10: Performance Analysis
+- Page 12: Creating a Corpus
 
 
 ## Working with this GitHub repository
