@@ -167,6 +167,7 @@
 **Objectives:**
 - Analyze your algorithms for best case and worst case time complexity
 - Annotate `LinkedList` and `HashTable` methods with time complexity
+    - See `LinkedList` [solutions](solutions/linkedlist.py) for examples: `items` and `find` methods
 - Benchmark the actual performance of your `LinkedList` and `HashTable` data structures and the built-in `list` and `dict` types (optional stretch challenge)
 - Collect a corpus of text from which to learn a Markov chain grammar model
 
