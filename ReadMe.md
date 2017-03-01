@@ -193,8 +193,15 @@
 
 **Resources:**
 - Review Make School's [regular expressions slides]
+- Solve interactive challenges in UBC's [regular expressions lab webpage][UBC regex lab]
+- Use [RegExr] or [RegEx Pal] to build and test your regular expression patterns
+- Use [RegExper] to visualize a diagram of your regular expression patterns
 
 [regular expressions slides]: RegularExpressions.pdf
+[UBC regex lab]: http://www.ugrad.cs.ubc.ca/~cs121/2015W1/Labs/Lab8/lab8.html
+[RegExr]: http://www.regexr.com/
+[RegEx Pal]: http://www.regexpal.com/
+[RegExper]: https://regexper.com/
 
 
 ## Working with this GitHub repository
