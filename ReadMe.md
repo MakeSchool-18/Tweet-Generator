@@ -181,6 +181,22 @@
 [SO big O]: http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation
 
 
+### Class 11: Tuesday, February 28
+
+**Activity:**
+- Code review `HashTable` methods and analyze algorithm complexity
+- Regular expressions lecture and discussion
+
+**Tutorial:**
+- Page 13: Parsing Text and Clean Up
+- Page 14: Tokenization (stretch challenge)
+
+**Resources:**
+- Review Make School's [regular expressions slides]
+
+[regular expressions slides]: RegularExpressions.pdf
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Tweet-Generator`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
