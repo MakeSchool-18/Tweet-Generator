@@ -196,12 +196,15 @@
 - Solve interactive challenges in UBC's [regular expressions lab webpage][UBC regex lab]
 - Use [RegExr] or [RegEx Pal] to build and test your regular expression patterns
 - Use [RegExper] to visualize a diagram of your regular expression patterns
+- Read StackOverflow answers to questions about using regular expressions to parse HTML: first [some comedic relief][SO match HTML tags] and then [an explanation of why you shouldn't][SO why not HTML]
 
 [regular expressions slides]: RegularExpressions.pdf
 [UBC regex lab]: http://www.ugrad.cs.ubc.ca/~cs121/2015W1/Labs/Lab8/lab8.html
 [RegExr]: http://www.regexr.com/
 [RegEx Pal]: http://www.regexpal.com/
 [RegExper]: https://regexper.com/
+[SO match HTML tags]: http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags
+[SO why not HTML]: http://stackoverflow.com/questions/590747/using-regular-expressions-to-parse-html-why-not
 
 
 ## Working with this GitHub repository
