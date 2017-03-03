@@ -207,6 +207,35 @@
 [SO why not HTML]: http://stackoverflow.com/questions/590747/using-regular-expressions-to-parse-html-why-not
 
 
+### Class 12: Thursday, March 2
+
+**Activity:**
+- Practice regular expressions challenges to match words and numbers in text
+- Review Markov chains, how to generate one and sample sentences from it
+- Discuss *n*-th order Markov chains and how to generate one from a corpus
+
+**Tutorial:**
+- Page 11: Markov Chains Revisited
+- Page 15: Time to Tweet
+
+**Objectives:**
+- Build 2nd order Markov chain based on observed frequency of word triples
+- Generate sentences by sampling words from 2nd order Markov chain
+- Stretch challenge: Generalize your code to build *n*-th order Markov chain
+
+**Resources:**
+- Read Alex Dejeu's [article on how Markov chains work][Dejeu Markov article]
+- Watch Make School's [Markov chains lecture]
+- Review Make School's [Markov chains slides]
+- Read Dataiku's [article on using Markov chains to generate Trump and Clinton quotes][Dataiku Markov article]
+
+[Markov chains lecture]: https://www.youtube.com/watch?v=dNaJg-mLobQ
+[Markov chains slides]: MarkovChains.pdf
+[Markov chains visualization]: http://setosa.io/blog/2014/07/26/markov-chains/
+[Dejeu Markov article]: https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71#.folhm2ymk
+[Dataiku Markov article]: https://blog.dataiku.com/2016/10/08/machine-learning-markov-chains-generate-clinton-trump-quotes
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Tweet-Generator`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
