@@ -232,14 +232,16 @@
 - Stretch challenge: Generalize your code to build *n*-th order Markov chain
 
 **Resources:**
-- Read Alex Dejeu's [article on how Markov chains work][Dejeu Markov article]
+- Read Alex Dejeu's [article on how Markov chains work][Dejeu Markov article], with great examples specific to this project
 - Watch Make School's [Markov chains lecture]
 - Review Make School's [Markov chains slides]
+- Play with Victor Powell's [interactive visualization of Markov chains][Markov chains visualization] and try the [fullscreen version][Markov chains fullscreen]
 - Read Dataiku's [article on using Markov chains to generate Trump and Clinton quotes][Dataiku Markov article]
 
 [Markov chains lecture]: https://www.youtube.com/watch?v=dNaJg-mLobQ
 [Markov chains slides]: MarkovChains.pdf
 [Markov chains visualization]: http://setosa.io/blog/2014/07/26/markov-chains/
+[Markov chains fullscreen]: http://setosa.io/markov/
 [Dejeu Markov article]: https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71#.folhm2ymk
 [Dataiku Markov article]: https://blog.dataiku.com/2016/10/08/machine-learning-markov-chains-generate-clinton-trump-quotes
 
