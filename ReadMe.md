@@ -191,14 +191,22 @@
 - Page 13: Parsing Text and Clean Up
 - Page 14: Tokenization (stretch challenge)
 
+**Objectives:**
+- Use regular expressions to clean up and remove junk from your corpus
+- Use regular expressions to create a more intelligent word tokenizer
+
 **Resources:**
+- Watch Make School's [regular expressions lecture]
 - Review Make School's [regular expressions slides]
+- Use Cheatography's [regular expressions cheat sheet] as a reference guide
 - Solve interactive challenges in UBC's [regular expressions lab webpage][UBC regex lab]
 - Use [RegExr] or [RegEx Pal] to build and test your regular expression patterns
 - Use [RegExper] to visualize a diagram of your regular expression patterns
 - Read StackOverflow answers to questions about using regular expressions to parse HTML: first [some comedic relief][SO match HTML tags] and then [an explanation of why you shouldn't][SO why not HTML]
 
+[regular expressions lecture]: https://www.youtube.com/watch?v=roUtBDH3Obc
 [regular expressions slides]: RegularExpressions.pdf
+[regular expressions cheat sheet]: https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/
 [UBC regex lab]: http://www.ugrad.cs.ubc.ca/~cs121/2015W1/Labs/Lab8/lab8.html
 [RegExr]: http://www.regexr.com/
 [RegEx Pal]: http://www.regexpal.com/
